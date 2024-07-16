@@ -1,2 +1,2 @@
-# SonarNoveltyDetection/notebooks
-Directory to store Jupyter Notebooks
+# SonarNoveltyDetection/data/external
+Directory to store external data
