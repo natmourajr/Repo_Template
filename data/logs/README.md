@@ -1,2 +1,2 @@
-# SonarNoveltyDetection/notebooks
-Directory to store Jupyter Notebooks
+# SonarNoveltyDetection/logs
+Directory to store log files
